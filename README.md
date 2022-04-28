@@ -1,7 +1,7 @@
 # Mini aplikacija bioskop
 
-- Aplikacija radjena za predmet `Programiranje web aplikacija i web servisi`
-- Zadatak radjen u Oktobru 2021. godine.
+- Aplikacija rađena za predmet `Programiranje web aplikacija i web servisi`
+- Zadatak rađen u Oktobru 2021. godine.
 
 ## Zadatak:
 
@@ -14,10 +14,10 @@ Potrebno je za aplikaciju napisati kod koji formira potrebne tabele i popunjava 
 
 ### Kreiranje baze podataka
 
-Kada se svi fajlovi prebace u zeljenu lokaciju kao sto je u mom slucaju
-htdocs (xampp) mozemo poceti sa kreiranjem baze, tabela i na kraju podataka.
+Kada se svi fajlovi prebace u željenu lokaciju kao sto je u mom slučaju
+htdocs (xampp) možemo početi sa kreiranjem baze, tabela i na kraju podataka.
 
-U folderu 'db' nalaze se sve neophodne php skirpte za kreiranje baze kao i .sql tabele koje se mogu iskoristit u slucaju da skripte ne rade.
+U folderu 'db' nalaze se sve neophodne php skirpte za kreiranje baze kao i .sql tabele koje se mogu iskoristit u slučaju da skripte ne rade.
 
 Ovaj link kreira bazu  
 http://localhost/seminarski/db/kreirajBazu.php
@@ -27,11 +27,11 @@ http://localhost/seminarski/db/kreirajTabele.php
 
 ### LOGIN
 
-Ulazimo na pocetnu straicu preko linka: http://localhost/seminarski/
-i dobijamo login straicu u koju je neophodno unjeti korisnicko ime i lozinku.
-Trenutno u bazi postoje dva korisnika sa podacima pomocu kojih se moze pristupiti.
+Ulazimo na početnu stranicu preko linka: http://localhost/seminarski/
+i dobijamo login stranicu u koju je neophodno unjeti korisničko ime i lozinku.
+Trenutno u bazi postoje dva korisnika sa podacima pomoću kojih se može pristupiti.
 
-Korisnicko ime i lozinka:
+Korisničko ime i lozinka:
 
     1 korisnik:
         boka95
@@ -41,4 +41,4 @@ Korisnicko ime i lozinka:
         markan
         1234567890
 
-Nakon unosa, podaci se provjeravaju i ako su ispravni dobijamo pristup i automatski budemo prosljedjeni na stranicu korisnik.php na kojoj se ispisuju svi podaci vezani za unesenog korisnika.
+Nakon unosa, podaci se provjeravaju i ako su ispravni dobijamo pravo na pristup i automatski budemo prosljeđeni na stranicu korisnik.php na kojoj se ispisuju svi podaci vezani za unesenog korisnika.
